@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tabulia-logo.svg" alt="Tabulia — seven colorful overlapping folders" width="168" />
+  <img src="tabulia-logo.svg" alt="Tabulia — seven colorful overlapping folders" width="168" />
 </p>
 
 <h1 align="center">Tabulia Releases</h1>
